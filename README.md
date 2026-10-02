@@ -10,14 +10,14 @@ Based on your analysis, you are expected to answer a set of business-focused que
 ### 1. What are the top-paying jobs based on the high-demand careers across the aforementioned geographies?
 #### 1.1) Top-Paying Jobs for Data Scientists in India:
 - **Principal-level roles command the highest salary**: The Principal Data Scientist position at GSK has the highest average salary at **204,381**, significantly above the other roles in the dataset.
-- The top 10 roles have an average salary of approximately **171,553**, with salaries ranging from **162,500** to **204,381**.
+- The top 10 roles have an average salary of approximately **171,853**, with salaries ranging from **162,500** to **204,381**.
 - **Skill requirements vary considerably:** The number of associated skills ranges from 0 to 10. The Data Scientist (all genders) role at HRS with a **162,500** salary has the highest skill count of **10**.
 - **Four senior and leadership roles in the top-paying positions:** Titles such as **Principal Data Scientist**, **Staff Engineer - Data Scientist**, **Sr Data Scientist**, and **Head of Data Science, Analytics and BI** appear among the highest-paid positions.
 - All 10 positions are full-time, and none of the listings in the supplied dataset indicates **work-from-home availability**, **insurance**, or a **degree requirement**.
 #### 1.2) Top-Paying Jobs for Data Analysts in India:
 - **Mantys** offers the highest reported salary at **650,000**, for a fully remote **Data Analyst** position. This is the only role offering **work-from-anywhere**.
 - **Data Architecture roles dominate the higher-paying positions in the dataset**. Technical Data Architect, Data Architect, and Data Architect - Data Migration roles account for five of the top 10 listings.
-- **Bengaluru and Hyderabad are prominent locations among the India-based high-paying roles**. Bosch Group has two listings in Bengaluru, while Eagle Genomics Ltd. has two listings in Hyderabad.
+- **Bengaluru and Hyderabad are prominent locations among the India-based high-paying roles**. Bosch Group has three listings in Bengaluru, while Eagle Genomics Ltd. has two listings in Hyderabad.
 - **Srijan Technologies' Technical Data Architect** - Healthcare role has the highest skill count **20** among the listed jobs, with an average salary of **165,000**.
 - **Degree requirements vary:** Only **three of the ten listings** explicitly indicate a degree requirement in the supplied data.
 #### 1.3) Top-Paying Jobs for Data Scientists in Rest of the World:
@@ -47,11 +47,11 @@ Based on your analysis, you are expected to answer a set of business-focused que
 - **Big-data technologies are strongly represented in the higher-paying Data Analyst roles**, including Spark, Hadoop, Databricks, PySpark, Kafka, and Airflow.
 - **Traditional analytics skills remain relevant at lower salary levels:** Deutsche Bank and ACA Group roles combine SQL, Excel, Power BI, and Azure, while Zscaler combines Snowflake, Excel, and Tableau.
 #### 2.3) Top skills for Data Scientists in Rest of the World:
-- **Python is the most consistently recurring skill**, appearing across several high-paying roles including Staff Data Scientist, Netflix Data Scientist, Director of Data Science, Algo Capital Group, and Analog Devices.
-- **SQL is another core skill, appearing in Staff Data Scientist**, Netflix, Algo Capital Group, and Analog Devices roles, highlighting the importance of data querying and analytical capabilities.
+- **Python is the most consistently recurring skill**, appearing across several high-paying roles including Staff Data Scientist, Netflix Data Scientist, Director of Data Science, Data Scientist in East River Electric Power Cooperative, Inc.
+- **SQL is another core skill, appearing in Staff Data Scientist**, Netflix, Shelby Jennings, and Linquest Corporation roles, highlighting the importance of data querying and analytical capabilities.
 - **Multiple programming languages are represented in senior roles**, including Java, R, C++, C, Go, and Python. This suggests that some high-paying positions require broader software and analytical programming capabilities.
-- **Machine learning, Big Data and AI technologies** are prominent in specialized roles. Analog Devices lists TensorFlow, PyTorch, and scikit-learn, while Netflix combines data science with Spark.
-- **Senior-level roles tend to require broader technical stacks**. For example, the Analog Devices Director, Data Scientist role combines SQL, Python, C++, Go, Pandas, NumPy, TensorFlow, PyTorch, scikit-learn, and Linux.
+- **Machine learning, Big Data and AI technologies** are prominent in specialised roles. Some companies also list TensorFlow, PyTorch, and scikit-learn, while Netflix combines data science with Spark.
+- **Senior-level roles tend to require broader technical stacks**. For example, the Yeti Coolers Director, Data Science & Advanced Analytics role combines Python, R, AWS, PySpark, Hadoop, Tableau.
 #### 2.4) Top skills for Data Analysts in Rest of the World:
 - **SQL and Python are the most recurring technical skills**, appearing across multiple high-paying roles including Torc Robotics, Anthropic, Care.com, and AT&T.
 - **R is also frequently represented**, particularly in senior and leadership-oriented analytics roles at Torc Robotics, Illuminate Mission Solutions, Care.com, and AT&T.
